@@ -1,0 +1,12 @@
+A= float(input("number 1:"))
+B= float(input("number 2:"))
+
+print("The sum is:", A + B)
+print("The difference is:", A - B)
+print("The product is:", A * B)
+print("The quotient is:", A / B)
+print("The remainder is:", A % B)
+print("The power is:", A ** B)
+print( "The floor division is:", A // B)
+print("The absolute value of A is:", abs(A))
+print("The absolute value of B is:", abs(B))
